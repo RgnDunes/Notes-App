@@ -5,6 +5,7 @@ A notes app developed using Node.js
 
 1. Go to root directory in terminal (cmd)
 2. To run the app type following commands :
+
           ### To add note
           `node app.js add --title="<title of note yo want to add>" --body="<body of note>"`
           ### To remove note
